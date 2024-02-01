@@ -1,7 +1,14 @@
-# Penjualan Hasil Pertanian
-Website penjualan hasil pertanian dengan menggunakan framework CodeIgniter ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
+# EVALUASI AKHIR SEMESTER
+# PROYEK PERANGKAT LUNAK - INSTITUT TEKNOLOGI TELKOM PURWOKERTO 2024
 
-To access admin page, add url /admin. Example http://localhost/ksucatalog/auth
+ANGGOTA KELOMPOK :
+1. Jovi Inzagi (21102064)
+2. Rr Ayudia Maharani (21102050)
+3. Rahmat Ashari (21102043)
+4. Rafi Zimran Lisfa (21102039)
+
+# Penjualan Hasil Pertanian
+Website penjualan hasil pertanian banyumas dengan menggunakan framework CodeIgniter ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
 ## Admin Account
 | Level |  Username | Password |
@@ -12,4 +19,4 @@ To access admin page, add url /admin. Example http://localhost/ksucatalog/auth
 ## Sistem Requirement
 - CodeIgniter
 - Database MySQL
-- XAMPP / PHP 5.6
+- XAMPP / PHP 7.3
